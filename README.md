@@ -6,3 +6,4 @@ This project applies Graph Neural Networks (GNNs) to the problem of jet substruc
 Code is mostly taken from the ToniMlin/LundTopTagger fork. From here, we trained new models and optimized paramaters for training and test performance.
 
 Summary of my personal contribution can be viewed on the Individual Report PDF (part of module assessment)
+ 
